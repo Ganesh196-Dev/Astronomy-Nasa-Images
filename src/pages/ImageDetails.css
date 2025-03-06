@@ -1,0 +1,8 @@
+.image-Detail {
+    transition: transform 0.3s ease;
+}
+
+
+.image-Detail:hover {
+    transform: scale(1.05);
+}
